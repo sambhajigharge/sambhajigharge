@@ -1,7 +1,10 @@
 Hey 👋, This is Sushant Gharge
-- 👀 I’m Interested & Passionate to learn programming.Looking forward for opportunities in Java , Full stack developer, open for opportunities.
-Proficient in Java, CSS, Shell Scripting, and more...
-- 🌱 I’m currently learning trending technology...
+___________________________________________________________________________________________________
+Passionate Programmer looking forward for opportunities in Java , Full stack developer, open for opportunities.
+
+Proficient in Java, HTML, CSS, Shell Scripting, and more. Currently on track for learning trending technologies.
+
+Interests  :  Cloud Computing   |   Blockchain   |   Financial Modelling   |   Saas Development
 
 
 <!---
