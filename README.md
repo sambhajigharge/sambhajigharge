@@ -1,4 +1,4 @@
-********Hey 👋, This is Sushant Gharge********
+# Hey 👋, This is Sushant Gharge
  
 Passionate Programmer looking forward for opportunities in Java , Full stack developer, open for opportunities.
 
